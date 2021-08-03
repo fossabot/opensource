@@ -2,6 +2,7 @@ Square Open Source Portal
 =========================
 
 [![Build Status](https://travis-ci.org/square/square.github.io.svg?branch=master)](https://travis-ci.org/square/square.github.io)
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAZ-AI-test%2Fopensource.svg?type=shield)](https://app.fossa.com/projects/git%2Bgithub.com%2FAZ-AI-test%2Fopensource?ref=badge_shield)
 
 A simple, static portal which outlines our open source offerings. Intentionally
 themed to look like a Square merchant page on the directory.
@@ -68,3 +69,6 @@ WITHOUT WARRANTIES OR CONDITIONS OF ANY KIND, either express or implied.
 See the License for the specific language governing permissions and
 limitations under the License.
 ```
+
+
+[![FOSSA Status](https://app.fossa.com/api/projects/git%2Bgithub.com%2FAZ-AI-test%2Fopensource.svg?type=large)](https://app.fossa.com/projects/git%2Bgithub.com%2FAZ-AI-test%2Fopensource?ref=badge_large)
